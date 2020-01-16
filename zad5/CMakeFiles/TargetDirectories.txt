@@ -1,0 +1,7 @@
+/home/cisco/kolos/trze/zad4/CMakeFiles/install/strip.dir
+/home/cisco/kolos/trze/zad4/CMakeFiles/edit_cache.dir
+/home/cisco/kolos/trze/zad4/CMakeFiles/myProgram.dir
+/home/cisco/kolos/trze/zad4/CMakeFiles/rebuild_cache.dir
+/home/cisco/kolos/trze/zad4/CMakeFiles/list_install_components.dir
+/home/cisco/kolos/trze/zad4/CMakeFiles/install/local.dir
+/home/cisco/kolos/trze/zad4/CMakeFiles/install.dir
